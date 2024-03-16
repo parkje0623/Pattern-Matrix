@@ -1,7 +1,7 @@
 # Pattern Matrix
 Pattern Matrix is a simple memorization game using the BeagleBone, Zen Cape, and 4x4 Matrix Keypad.
 The player will use the joystick on a BeagleBone to interact and change the general settings of the game.
-The 4x4 Matrix Keypad is used to display a random sequence of flashing lights that the player must remember and enter the same sequence to win a game.
+The 4x4 Matrix Keypad is used to display a random sequence of flashing lights that the player must memorize to win a game.
 ![Pattern Matrix](./pattern_matrix.png)
 
 ## Features
